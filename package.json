@@ -1,0 +1,22 @@
+{
+  "name": "eta-prog-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aritmetics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpeti1988/Eta-prog-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpeti1988/Eta-prog-test/issues"
+  },
+  "homepage": "https://github.com/hpeti1988/Eta-prog-test#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
